@@ -64,7 +64,7 @@ elif social_acc_nav == 'EDA':
     st.sidebar.markdown("<h2 style='text-align: center;'> Exploratory Data Analysis </h2> ", unsafe_allow_html=True)
     st.sidebar.markdown('''---''')
     st.sidebar.markdown('''The exploratory data analysis of this project can be find in a Jupyter notebook from the linl below''')
-    st.sidebar.markdown("[Open Notebook](https://github.com/Kyei-frank/Regression-Project-Store-Sales--Time-Series-Forecasting/blob/main/project_workflow.ipynb)")
+    st.sidebar.markdown("[Open Notebook](https://github.com/Gyimah3/Store-Sales----Time-Series-Forecasting-Regression-project-/blob/main/Store%20Sales%20--%20Time%20Series%20Forecasting(Regression%20project).ipynb)")
 
 elif social_acc_nav == 'About App':
     st.sidebar.markdown("<h2 style='text-align: center;'> Sales Forecasting App </h2> ", unsafe_allow_html=True)
