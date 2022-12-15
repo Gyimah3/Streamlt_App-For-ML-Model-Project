@@ -42,10 +42,10 @@ st.markdown(page_bg_img,unsafe_allow_html=True)
 # Setting up logo
 left1, left2, mid,right1, right2 = st.columns(5)
 with left1:
-    image1= Image.open(r"C:\\Users\\USER\Desktop\\lo.jpg")
+    image1= Image.open(r'images\lo.jpg')
     st.image(image1, width=300)
 with right1:
-    image= Image.open(r"C:\\Users\\USER\Desktop\\loi.jpg")
+    image= Image.open(r'images\loi.jpg')
     st.image(image, width=310)
 
 # Setting up Sidebar
