@@ -71,7 +71,7 @@ elif social_acc_nav == 'About App':
     st.sidebar.markdown('''---''')
     st.sidebar.markdown("This App predicts the sales for product families sold at Favorita stores using regression model.")
     st.sidebar.markdown("")
-    st.sidebar.markdown("[ Visit Github Repository for more information](https://github.com/Kyei-frank/Regression-Project-Store-Sales--Time-Series-Forecasting)")
+    st.sidebar.markdown("[ Visit Github Repository for more information](https://github.com/Gyimah3/Store-Sales----Time-Series-Forecasting-Regression-project-)")
     st.sidebar.markdown("For mom❄️ and Delp❄️.")
     st.sidebar.markdown("")
     
