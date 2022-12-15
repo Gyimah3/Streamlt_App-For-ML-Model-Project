@@ -46,7 +46,7 @@ with left1:
     st.image('https://th.bing.com/th/id/R.0fbe9296bcb3eccfd1da47a17b0f8c4c?rik=9gof%2bvdKHPQyYw&pid=ImgRaw&r=0', width=400,caption=None, use_column_width=None, clamp=100, channels="RGB", output_format='JPEG')
 with right1:
    # image= Image.open("images\loi.jpg")
-    st.image('https://th.bing.com/th/id/OIP.hOpxwsP1OFM5ebfOnHq_kQAAAA?pid=ImgDet&rs=1',caption=None, use_column_width=None, clamp=100, channels="RGB", output_format='JPEG', width=310,)
+    st.image('https://th.bing.com/th/id/OIP.hOpxwsP1OFM5ebfOnHq_kQAAAA?pid=ImgDet&rs=1',caption=None, use_column_width=None, clamp=100, channels="RGB", output_format='JPEG', width=317,)
 
 # 
 
