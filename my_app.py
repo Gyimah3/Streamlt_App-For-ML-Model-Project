@@ -42,11 +42,13 @@ st.markdown(page_bg_img,unsafe_allow_html=True)
 # Setting up logo
 left1, left2, mid,right1, right2 = st.columns(5)
 with left1:
-    image1= Image.open(r'images\lo.jpg')
-    st.image(image1, width=300)
+    #image1= Image.open('https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/blob/main/images/lo.jpg')
+    st.image('https://th.bing.com/th/id/R.0fbe9296bcb3eccfd1da47a17b0f8c4c?rik=9gof%2bvdKHPQyYw&pid=ImgRaw&r=0', width=400,caption=None, use_column_width=None, clamp=100, channels="RGB", output_format='JPEG')
 with right1:
-    image= Image.open(r'images\loi.jpg')
-    st.image(image, width=310)
+   # image= Image.open("images\loi.jpg")
+    st.image('https://th.bing.com/th/id/OIP.hOpxwsP1OFM5ebfOnHq_kQAAAA?pid=ImgDet&rs=1',caption=None, use_column_width=None, clamp=100, channels="RGB", output_format='JPEG', width=310,)
+
+# 
 
 # Setting up Sidebar
 social_acc = ['Data Field Description', 'EDA', 'About App']
