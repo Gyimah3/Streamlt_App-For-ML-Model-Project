@@ -80,18 +80,18 @@ elif social_acc_nav == 'About App':
 
 
 @st.cache(allow_output_mutation=True)
-def Load_ml_items(file_path = 'ML_items'):
+def Load_ml_items(relative_path):
     "Load ML items to reuse them"
-    with open('ML_items', 'rb') as file:
+    with open(relative_path, 'rb') as file:
         loaded_object = pickle.load(file)
     return loaded_object
 
 
-loaded_object = Load_ml_items()
+loaded_object = Load_ml_items('ML_items')
 
 
     #return loaded_object
-Loaded_object = Load_ml_items()
+Loaded_object = Load_ml_items('ML_items')
 model, encoder, train_data, stores, holidays_event = Loaded_object['model'], Loaded_object['encoder'], Loaded_object['train_data'], Loaded_object['stores'], Loaded_object['holidays_event']
 
 # Setting Function for extracting Calendar features
