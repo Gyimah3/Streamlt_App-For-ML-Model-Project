@@ -25,4 +25,5 @@ For manual installation, you need to have Python3 on your system. Then you can c
 https://huggingface.co/spaces/Gyimah3/App
 
 # screenshots
-![screenshots](
+
+![screenshots](https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/tree/main/screenshots)
