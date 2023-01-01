@@ -32,3 +32,7 @@ https://huggingface.co/spaces/Gyimah3/App
 ## screenshot 2
 
 ![screenshot](https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/blob/main/screenshots/Screenshot%202022-12-15%20130808.png)
+
+## screenshot 3
+
+![screenshot](https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/blob/main/screenshots/Screenshot%202022-12-15%20131214.png)
