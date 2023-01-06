@@ -47,3 +47,5 @@ The first step in the procedure is to export the important components I used for
 import pickle
 
 The dictionary can then be created and exported with pickle as shown below;
+
+![image](https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/blob/main/images2/Screenshot%202023-01-02%20190755.png)
