@@ -27,7 +27,7 @@ In order to get the most value out of my machine learning model, it was importan
 
 Here is the link to the app https://huggingface.co/spaces/Gyimah3/App
 
-##Streamlit
+## Streamlit
 
 Streamlit is an open-source Python app framework for building and deploying web-based data science applications. It allows users to create and share interactive data analyses and machine learning tools without having to write complex web application code. It does all this with a Python script.
 
@@ -47,6 +47,7 @@ The first step in the procedure is to export the important components I used for
 import pickle
 
 The dictionary can then be created and exported with pickle as shown below;
+
 ![image](https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/blob/main/images2/Screenshot%202023-01-03%20150309.png)
 
 ![image](https://github.com/Gyimah3/Streamlt_App-For-ML-Model-Project/blob/main/images2/Screenshot%202023-01-02%20190755.png)
